@@ -96,6 +96,21 @@ I enjoy solving real-world engineering problems involving:
 
 ---
 
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkaif02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkaif02&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohammedkaif02&theme=tokyonight&hide_border=true" width="94%" />
+</p>
+
+---
+
+
 ## 🎯 Professional Focus
 
 ```text
@@ -124,16 +139,3 @@ I enjoy solving real-world engineering problems involving:
 * Exploring
 
 
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkaif02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkaif02&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammedkaif02&theme=tokyonight&hide_border=true" width="94%" />
-</p>
