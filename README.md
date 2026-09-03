@@ -1,21 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on scalable, cross-platform mobile apps with Clean Architecture & gRPC. <br> 👯 I’m looking to collaborate on open-source Flutter packages, performance-driven mobile tools, and full-stack Dart projects.<br>🤝 I’m looking for help with mastering advanced native iOS/Android platform channels and Kotlin/Swift bridges.<br>🌱 I’m currently learning advanced Dart macros, deep performance profiling with Flutter DevTools, and micro-frontend mobile architectures.<br>💬 Ask me about Flutter, GetX/Bloc, offline-first systems (Hive), RESTful APIs, and UI performance optimization.  <br>⚡ Fun fact I treat eliminating unnecessary widget rebuilds like an extreme sport—60 FPS or nothing!
+# 👋 Hi, I'm Mohammed Kaif
 
+### 🚀 Flutter Developer | Mobile Application Engineer | Dart Developer
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/mohammedkaif27) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammed_kaif_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammedkaif4343/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedkaif4343@gmail.com) 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mohammed%20Kaif&fontSize=42&fontAlignY=35&animation=twinkling" width="100%" />
+</p>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohammedkaif02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mohammedkaif02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohammedkaif02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammedkaif4343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohammedkaif4343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.behance.net/mohammedkaif27">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  <a href="https://www.instagram.com/mohammed_kaif_02/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedkaif02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mohammedkaif02?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/mohammedkaif02?label=Stars&style=flat&color=yellow" alt="GitHub Stars"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mohammedkaif02&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Flutter Developer with 2+ years of professional experience** designing,
+developing, and deploying scalable cross-platform mobile applications using
+**Flutter and Dart**.
+
+My primary focus is building **production-ready mobile applications** with
+clean architecture, efficient state management, reliable data flow,
+offline-first capabilities, secure data handling, and high-performance UI.
+
+I enjoy solving real-world engineering problems involving:
+
+- 📱 Cross-Platform Mobile Development
+- 🏗️ Clean & Scalable Architecture
+- 🧠 State Management
+- 📴 Offline-First Applications
+- 🔄 Data Synchronization
+- 🌐 REST / gRPC / GraphQL Integration
+- 💾 Local Persistence & Caching
+- ⚡ Flutter Performance Optimization
+- 🔐 Authentication & Secure Data Handling
+- 🧪 Testing & Reliability
+- 🚀 CI/CD & Release Automation
+
+---
+
+## 🎯 Professional Focus
+
+```text
+                         FLUTTER
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+    ARCHITECTURE       STATE MANAGEMENT    DATA LAYER
+          │                 │                 │
+          │                 ├── GetX          ├── REST
+          ├── Clean         ├── BLoC          ├── gRPC
+          ├── Repository    ├── Provider      ├── GraphQL
+          ├── SOLID         └── Riverpod*     └── Firebase
+          └── DI
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+     OFFLINE-FIRST      PERFORMANCE        DEVOPS
+          │                 │                 │
+          ├── Hive          ├── DevTools      ├── Git
+          ├── Caching       ├── Rendering     ├── GitHub
+          ├── Sync          ├── Rebuilds      ├── GitLab
+          └── Retry         └── Memory        └── CI/CD
+
+* Exploring
