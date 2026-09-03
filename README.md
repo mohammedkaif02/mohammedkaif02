@@ -55,6 +55,47 @@ I enjoy solving real-world engineering problems involving:
 
 ---
 
+### 💻 Tech Stack
+
+<div align="center">
+  <!-- Core Frameworks -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+  <br/><br/>
+
+  <!-- State Management & Architecture -->
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white" alt="GetX" />
+  <img src="https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
+  <img src="https://img.shields.io/badge/Riverpod-004481?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-blue?style=for-the-badge" alt="Clean Architecture" />
+
+  <br/><br/>
+
+  <!-- Data, Backend & DB -->
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Hive-FBB03B?style=for-the-badge&logo=apache-hive&logoColor=white" alt="Hive" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+  <br/><br/>
+
+  <!-- Tools & DevOps -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</div>
+
+---
+
 ## 🎯 Professional Focus
 
 ```text
@@ -81,3 +122,18 @@ I enjoy solving real-world engineering problems involving:
           └── Retry         └── Memory        └── CI/CD
 
 * Exploring
+
+
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkaif02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkaif02&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohammedkaif02&theme=tokyonight&hide_border=true" width="94%" />
+</p>
