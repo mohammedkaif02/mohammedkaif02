@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammedkaif4343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+ <a href="https://www.linkedin.com/in/mohammedkaif4343/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   <a href="mailto:mohammedkaif4343@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -68,7 +68,7 @@ I enjoy solving real-world engineering problems involving:
   <br/><br/>
 
   <!-- State Management & Architecture -->
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="BLoC" />
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white" alt="GetX" />
   <img src="https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider" />
   <img src="https://img.shields.io/badge/Riverpod-004481?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod" />
@@ -81,6 +81,7 @@ I enjoy solving real-world engineering problems involving:
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Hive-FBB03B?style=for-the-badge&logo=apache-hive&logoColor=white" alt="Hive" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -100,13 +101,14 @@ I enjoy solving real-world engineering problems involving:
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedkaif02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedkaif02&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="45%" />
 </div>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mohammedkaif02&theme=tokyonight&hide_border=true" width="94%" />
 </p>
+
 
 ---
 
@@ -124,7 +126,7 @@ I enjoy solving real-world engineering problems involving:
           │                 ├── GetX          ├── REST
           ├── Clean         ├── BLoC          ├── gRPC
           ├── Repository    ├── Provider      ├── GraphQL
-          ├── SOLID         └── Riverpod*     └── Firebase
+          ├── SOLID         └── Riverpod     └── Firebase
           └── DI
                             │
           ┌─────────────────┼─────────────────┐
@@ -136,6 +138,6 @@ I enjoy solving real-world engineering problems involving:
           ├── Sync          ├── Rebuilds      ├── GitLab
           └── Retry         └── Memory        └── CI/CD
 
-* Exploring
+
 
 
